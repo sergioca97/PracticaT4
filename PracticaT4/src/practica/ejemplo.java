@@ -6,6 +6,7 @@ public static void main(String[]args)
 {
 		//TODO Auto-generated method stub
 		System.out.println("Hola Mundo!");
-		System.out.println("Nueva línea de cambio de código");
+		System.out.println("Nueva lÃ­nea de cambio de cÃ³digo");
+		System.out.println("Cambio en el cÃ³digo desde repositorio online");
 }
 }
